@@ -1,3 +1,3 @@
 # infinity-unity3DRPG
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/weiwei1105521242/infinity-unity3DRPG/blob/main/img-folder/mycharacter.png)
